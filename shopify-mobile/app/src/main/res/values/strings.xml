@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NamShopify</string>
+    <string name="shopName">SHOPICRUIT</string>
+    <string name="todo">TODO</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Price:</string>
+    <string name="product_quantity">Total Quantity:</string>
+    <string name="product_tag_name">Tags:</string>
+    <string name="product_variant">Variants:</string>
+    <string name="back_to_main">Back to Main Screen</string>
+</resources>

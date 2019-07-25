@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #7433f1;
+  height: 150px;
+  padding: 50px;
+  color: white;
+}
+
+.App-title {
+  font-size: 2.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.favorite-background {
+  background-color: #f3ecfe;
+}
+.btn-shopify-background {
+  background-color: #7433f1;
+}
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
